@@ -3,6 +3,8 @@
     padding: 0px;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
+    scroll-behavior: smooth;
+    
 }
 
 .navbar{
@@ -470,8 +472,6 @@
 }
 
 
-  
-/*cardlar sonu*/
 .footer{
     width: 100%;
     background:white;
